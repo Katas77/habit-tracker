@@ -1,4 +1,4 @@
-package com.example.habit_tracker.servise
+package com.example.habit_tracker.service
 
 import android.app.NotificationChannel
 import android.app.NotificationManager

@@ -9,7 +9,7 @@ import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import com.example.habit_tracker.data.ReminderRepository
 import com.example.habit_tracker.data.db.ReminderDatabase
-import com.example.habit_tracker.servise.WorkScheduler
+import com.example.habit_tracker.service.WorkScheduler
 
 class ReminderViewModel(application: Application) : AndroidViewModel(application) {
 

@@ -1,4 +1,4 @@
-package com.example.habit_tracker.servise
+package com.example.habit_tracker.service
 
 
 import android.content.Context
